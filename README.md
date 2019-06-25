@@ -12,7 +12,7 @@
     
  4.打开新的终端，发送消息
 
-    ```bin/kafka-console-producer.sh --broker-list localhost:9091 --topic errorTopic```
+    bin/kafka-console-producer.sh --broker-list localhost:9091 --topic errorTopic
 
-    ```bin/kafka-console-producer.sh --broker-list localhost:9092 --topic infoTopic```
-    
+    bin/kafka-console-producer.sh --broker-list localhost:9092 --topic infoTopic
+  
